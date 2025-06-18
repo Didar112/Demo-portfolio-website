@@ -152,5 +152,69 @@ main{
     box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
     border-radius: 5px;
 }
+.skill-card img{
+    margin-bottom: 38px;
+}
+.skill-description{
+    font-family: "Open Sans";
+    font-weight: 400px;
+    font-size: 16px;
+    line-height: 28px;
+}
+.summary-sec{
+    
+    margin-top: 130px;
+    margin-bottom: 130px;
+}
 
+.sum-title{
+    text-align: center;
+    color: #181818;
+    font-family: "Open Sans";
+    font-weight: bold;
+    font-size: 35px;
+    margin-bottom: 113px;
+
+}
+
+.sum-holder{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+.education{
+    font-family: "Open Sans";
+    font-weight: bold;
+    font-size: 30px;
+    color: #474747;
+
+}
+
+.edu-span{
+    width: 511px;
+    height: 175px;
+}
+
+.degree{
+    font-size: 25px;
+}
+
+.uni{
+    font-weight: 600px;
+    font-size: 20px;
+    color: #757575;
+    font-family: "Open Sans";
+}
+
+.deg-des{
+    font-size: 400px;
+    font-size: 16px;
+    color: #757575;
+}
+hr{
+    width: 558px;
+    color: #D1D1D1;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
 
